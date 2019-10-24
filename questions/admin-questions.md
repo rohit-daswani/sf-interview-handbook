@@ -45,7 +45,7 @@ Pull requests for suggestions and corrections are welcome!
 * [What are the key automation tools in Salesforce?](#what-are-some-of-the-gotchas-for-writing-efficient-css)
 
 
-### [How can we find out what licenses the org has? And how many licenses are available?](#how-can-we-find-out-what-licenses-the-org-has-and-how-many-licenses-are-available)
+### (#how-can-we-find-out-what-licenses-the-org-has-and-how-many-licenses-are-available)
 A license in salesforce enables a user to use the features of the org. A user can also be restricted to using only a few features of the org, based on the user assigned license. In order to view what all licenses are available for the org, the user has to follow these steps:
 
 - Select Setup from the admin drop down
